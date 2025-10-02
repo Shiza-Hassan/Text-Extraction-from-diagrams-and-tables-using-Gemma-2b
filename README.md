@@ -17,19 +17,19 @@ This project is a Jupyter Notebook–based application that allows users to **ex
 
 ###  Home Display  
 Upload an image and select whether it is a table or a diagram.  
-![Home Display](images/SC01.png)
+![Home Display](images/SC01.PNG)
 
 ###  After Upload  
 Once the image is uploaded, processing begins.  
-![After Upload](images/sc02.png)
+![After Upload](images/sc02.PNG)
 
 ###  Results Window  
 Processed results with text, arrows, and contextual mapping.  
-![Results Window](images/SC03.png)
+![Results Window](images/SC03.PNG)
 
 ###  Results Fullscreen  
 Full-screen display of extracted text and diagram interpretation.  
-![Results Fullscreen](images/SC04.png)
+![Results Fullscreen](images/SC04.PNG)
 
 ##  Installation
 
